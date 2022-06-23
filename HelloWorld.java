@@ -1,5 +1,6 @@
 /*HELLO WORLD IN INHERITANCE
  BY SOUMYA CHAKRABORTY*/
+
 class words {
 	protected String z;
 	public void hello(String x, String y) {
@@ -14,4 +15,4 @@ public class Main extends words {
 		Main probj = new Main();
 		probj.hello(a, b);
 	}
-} //Hello World!
+}
