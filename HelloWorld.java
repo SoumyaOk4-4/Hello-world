@@ -1,3 +1,5 @@
+/*HELLO WORLD IN INHERITANCE
+ BY SOUMYA CHAKRABORTY*/
 class words {
 	protected String z;
 	public void hello(String x, String y) {
